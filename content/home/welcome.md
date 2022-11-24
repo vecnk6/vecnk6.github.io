@@ -4,7 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: "                            **VECNK6**Research Group"
-hero_media: welcome.jpg
+hero_media: book.png
 design:
   columns: "1"
   css_style: null

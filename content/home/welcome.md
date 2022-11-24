@@ -20,6 +20,6 @@ design:
 
 <!--StartFragment-->
 <span style="color: white">
-Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6
+Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECN-K6
 </span>
 <!--EndFragment-->

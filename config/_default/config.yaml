@@ -29,8 +29,10 @@ module:
 ## ADVANCED
 ############################
 
-backend:
   name: git-gateway
+  repo: vecnk6/vecnk6.github.io
+  branch: main
+  site_domain: vecnk6.github.io
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

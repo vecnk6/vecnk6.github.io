@@ -4,7 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: ""
-hero_media:""
+
 design:
   columns: "1"
   css_style: null

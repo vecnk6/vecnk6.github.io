@@ -12,13 +12,14 @@ design:
     image: hadith.jpg
     color: "#fcf9f9"
     text_color_light: true
+  
 ---
 <br>
 
 <br>
 
 <!--StartFragment-->
-
-**Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6{: style="color: red; opacity: 0.80;" }**
-
+<span style="color: white">
+Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6
+</span>
 <!--EndFragment-->

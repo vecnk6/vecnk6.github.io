@@ -1,6 +1,6 @@
 backend:
   branch: main
-  name: git-gateway
+  name: github
   squash_merges: true
 collections:
 - create: true

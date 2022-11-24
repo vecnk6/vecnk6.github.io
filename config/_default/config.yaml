@@ -29,6 +29,8 @@ module:
 ## ADVANCED
 ############################
 
+backend:
+  name: git-gateway
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

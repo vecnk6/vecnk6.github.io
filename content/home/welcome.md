@@ -3,8 +3,8 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: "                            **VECNK6**Research Group"
-hero_media: welcome.jpg
+title: ""
+hero_media: books.png
 design:
   columns: "1"
   css_style: null

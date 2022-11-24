@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: hadith.jpg
+    color: "#fcf9f9"
 ---
 <br>
 
@@ -19,9 +20,5 @@ design:
 <!--StartFragment-->
 
 **Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6**
-
-```
-{: style="color: red; opacity: 0.80;" }
-```
 
 <!--EndFragment-->

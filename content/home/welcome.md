@@ -3,14 +3,14 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: "                            **VECNK6**Research Group"
+title: ""
 hero_media: books.png
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: hadith.jpg
 ---
 <br>
 

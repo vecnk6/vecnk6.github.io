@@ -4,7 +4,6 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: ""
-
 design:
   columns: "1"
   css_style: null
@@ -20,6 +19,6 @@ design:
 
 <!--StartFragment-->
 
-**Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6**{: style="color: red; opacity: 0.80;" }
+**Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6{: style="color: red; opacity: 0.80;" }**
 
 <!--EndFragment-->

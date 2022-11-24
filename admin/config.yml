@@ -2,6 +2,7 @@ backend:
   branch: main
   name: github
   repo: vecnk6/vecnk6.github.io
+  site_domain: vecnk6.github.io
   squash_merges: true
 collections:
 - create: true

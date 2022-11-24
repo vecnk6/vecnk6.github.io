@@ -3,9 +3,7 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: |
-  Wowchemy  
-  Research Group
+title: "**VECNK6**Research Group"
 hero_media: welcome.jpg
 design:
   columns: "1"

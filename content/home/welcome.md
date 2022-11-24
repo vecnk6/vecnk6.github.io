@@ -16,10 +16,6 @@ design:
 
 <br>
 
-<br>
-
-<br>
-
 <!--StartFragment-->
 
 **Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6**

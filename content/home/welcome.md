@@ -14,4 +14,8 @@ design:
 ---
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 20
+<!--StartFragment-->
+
+**Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECNK6**
+
+<!--EndFragment-->

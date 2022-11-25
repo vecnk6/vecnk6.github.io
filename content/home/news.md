@@ -6,7 +6,7 @@ weight: 20
 
 title: Latest News
 subtitle:
-
+active: false
 content:
   count: 5
   filters:

@@ -10,7 +10,7 @@ design:
   css_class: null
   background:
     image: hadith.jpg
-    color: "#fcf9f9"
+    color: "#ffd966"
     text_color_light: true
   
 ---

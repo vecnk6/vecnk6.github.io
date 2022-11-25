@@ -11,7 +11,7 @@ design:
   background:
     image: hadith.jpg
     color: "#ffd966"
-    text_color_light: true
+    text_color_light: false
   
 ---
 <br>

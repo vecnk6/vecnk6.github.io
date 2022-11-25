@@ -11,5 +11,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   height: '48px'
+  background:
+    color: "DodgerBlue"
 ---
-<div style="background-color:DodgerBlue; height:48px" ></div>
+

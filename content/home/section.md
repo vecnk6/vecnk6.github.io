@@ -13,6 +13,6 @@ design:
   
   background:
     color: "DodgerBlue"
-    height: '48px'
+    height: '148px'
 ---
 

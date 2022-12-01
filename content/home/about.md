@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: About
+title: 
 subtitle:
 weight: 30  # section position on page
 
@@ -16,6 +16,8 @@ design:
 ---
 <br>
 
+<span style="font-size: large;">About</span>
+<span style="font-size: medium;">
 The aim of this research is to visually explore the chain of narrators in the Kutub Al-Sittah. In this project , the following prototypes will be developed
 
 1. An educational tool comprising the full Kutub al-Sittah, including metadata derived from commentries
@@ -31,3 +33,4 @@ The aim of this research is to visually explore the chain of narrators in the Ku
 6. A gamified VR-based “exhibition” version of the software that can be deployed easily and robustly in, e.g., museums, libraries, and exhibitions
 
 7. A gamified mobile version to allow for educational exploration on the go
+</span>

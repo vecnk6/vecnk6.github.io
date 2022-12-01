@@ -12,8 +12,7 @@ design:
   columns: '2'
   
   background:
-    image: "section1.png"
+    
     color: "#E0D2D3"
-    height: '48px'
 ---
 

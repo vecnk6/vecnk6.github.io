@@ -20,7 +20,8 @@ design:
 
 <!--StartFragment-->
 
-Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECN-K6
+VISUAL EXPLORATION OF CHAIN OF NARRATORS IN THE KUTUB 
+AL-SITTAH VECN-K6
 <br>
 FUNDED BY THE QATAR NATIONAL RESEARCH  FUND
 <br>

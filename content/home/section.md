@@ -3,8 +3,8 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: 
-subtitle:
+title: VECN-K6
+subtitle:Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research
 weight: 30  # section position on page
 
 design:
@@ -17,4 +17,4 @@ design:
     text_color_light: false
 ---
 <br>
-Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research
+

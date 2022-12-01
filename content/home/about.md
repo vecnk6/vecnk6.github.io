@@ -13,6 +13,9 @@ design:
   background:
     color: "#FCFCFC"
     text_color_light: false
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---
 <span style="font-size: x-large;">About</span>
 <br>

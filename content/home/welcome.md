@@ -20,6 +20,6 @@ design:
 
 <!--StartFragment-->
 
-Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECN-K6
+Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research VECN-K9
 
 <!--EndFragment-->

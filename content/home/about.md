@@ -14,10 +14,9 @@ design:
     color: "#FCFCFC"
     text_color_light: false
 ---
+<span style="font-size: x-large;">About</span>
 <br>
-
-<span style="font-size: large;">About</span>
-<span style="font-size: medium;">
+<span style="font-size: large;">
 The aim of this research is to visually explore the chain of narrators in the Kutub Al-Sittah. In this project , the following prototypes will be developed
 
 1. An educational tool comprising the full Kutub al-Sittah, including metadata derived from commentries

@@ -4,6 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: ""
+hero_media: hadith.jpg
 design:
   columns: "2"
   css_style: null

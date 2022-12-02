@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 40
+weight: 50
 
 title: Latest News
 subtitle:
-active: true
+active: false
 content:
   count: 5
   filters:

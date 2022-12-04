@@ -6,7 +6,7 @@ headless: true
 title: Funding Sources
 subtitle:
 weight: 40  # section position on page
-
+active: false
 design:
   # Choose how many columns the section has. Valid values: 1 or 2."DodgerBlue"
   columns: '2'
@@ -23,7 +23,7 @@ design:
 <br>
 QATAR NATIONAL RESEARCH FUND
 <br>
-<img src="../images/fund.png" alt="Qatar National Research Fund" width="326" height="162">
+<img src="images/fund.png" alt="Qatar National Research Fund" width="326" height="162">
 <br>
 Qatar National Research Fund aims to foster original, competitively selected research in engineering and technology, physical and life sciences, medicine, humanities, social sciences, and the arts.
 

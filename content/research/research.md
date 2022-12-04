@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: About
+title: Research Objectives
 subtitle:
 weight: 30  # section position on page
 
@@ -21,7 +21,7 @@ design:
 #<span style="font-size: large;">
 ---
 
-The aim of this research is to visually explore the chain of narrators in the Kutub Al-Sittah. In this project , the following prototypes will be developed
+In this project , the following prototypes will be developed
 
 1. An educational tool comprising the full Kutub al-Sittah, including metadata derived from commentries
 

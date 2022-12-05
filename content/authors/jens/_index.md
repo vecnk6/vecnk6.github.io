@@ -10,28 +10,27 @@ role: Assistant Professor, CSE/HBKU Qatar
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: His main research interests include interactive and GPU-based Visualization, GPU-friendly Data Compression, Large-scale Visualization, and Level of Detail Algorithms.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GPU-based Visualization
+  - GPU-friendly Data Compression
+  - Large-scale Visualization
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Dr. rer. nat. in Computer Science
+      institution: Technical University Munich, Germany
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Dipl. Inform. (M.Sc. Computer Science)
+      institution: RWTH Aachen, Germany
+      year: 2004
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +39,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:jeschneider@hbku.edu.qa'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/jens-schneider-24555b155/?originalSubdomain=qa
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.de/citations?user=em4IRO4AAAAJ&hl=en
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +65,5 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Jens Schneider is an assistant professor in the Division of Information and Computing Technology, College of Science and Engineering, HBKU.
+He received his diploma in Computer Science from RWTH Aachen, Germany, in 2004 and his doctorate in Computer Science from Technical University Munich, Germany, in 2009.

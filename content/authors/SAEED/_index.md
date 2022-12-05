@@ -17,21 +17,16 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Qur’an and Sunnah Studies
+  - Hadith Sciences
+  - Sharia Studies
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Hadith
+      institution: University of Jordan
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +35,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:saealmarri@qu.edu.qa'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/dr_marri
+ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +58,5 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prof. Saeed Muhammad Hamad Al Marri is an Assistant Professor at the College of Sharia at Qatar University, Department of the Qur’an and Sunnah. He holds a PhD in Hadith, from the College of Graduate Studies at the University of Jordan in 2009. Specializing in hadithology, he holds many certificates in the most famous books of hadith such as the two Sahihs (Bukhari and Muslim). He is currently conducting many specialized modern research projects including: 1 - Explanation of the strange hadith by the famous hadith, 2 - The difference between fraud and transmission.
+He brings an exceptionally vast knowledge and expertise on the Hadith to the project. His expertise will bring research questions in the field of Hadith Sciences to the project, as well as guidance and ensuring that the resulting software will truthfully reflect the original sources.

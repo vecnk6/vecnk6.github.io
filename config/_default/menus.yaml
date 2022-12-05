@@ -20,6 +20,6 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Resources
+    url: https://github.com/vecnk6
     weight: 60

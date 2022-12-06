@@ -47,13 +47,13 @@ social:
     link: 'mailto:dkurup@hbku.edu.qa'
   - icon: twitter
     icon_pack: fab
-    link: twitter.com/Deviajit83
+    link: https://twitter.com/Deviajit83
   - icon: google-scholar
     icon_pack: ai
     link: 
   - icon: github
     icon_pack: fab
-    link: github.com/Devigk
+    link: https://github.com/Devigk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

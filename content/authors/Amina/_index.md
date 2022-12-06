@@ -14,25 +14,25 @@ role: Research Assistant CSE/HBKU
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Hamad Bin Khalifa University, Qatar
+  - url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 
-  - 
-  - 
+  - Machine Learning
+  - Computational Linguistics
+  - NLP
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: Master of Science in software engineering 
+      institution: Higher Institute of computer science and mathematics, Monastir - Tunisia
+      year: 2012
+    - course: Bachelor of Science in Computer Science 
+      institution: Higher Institute of computer science and mathematics, Monastir - Tunisia
+      year: 2008
     - course: 
       institution: 
       year: 
@@ -69,7 +69,6 @@ user_groups:
   - POST-DOCS & RESEARCH ASSISTANTS
   - Visitors
 ---
+Amina is a software engineer with 8 years of experience in developing software and web applications.
+She  used to work in private and governmental business.
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

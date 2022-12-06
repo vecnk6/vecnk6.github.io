@@ -14,8 +14,8 @@ role: Research Associate CSE/HBKU
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Hamad Bin Khalifa University, Qatar
+  - url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,5 +68,5 @@ user_groups:
   - Visitors
 ---
 
-Holds a master's degree in Computer Based Information System and 12 years' experience in engineering and managing projects related to Information Technology and Software Development. His experience in working on R&D projects, academic projects and transforming them into practical pioneering projects is one of the most important things I can offer to the project. He converted his master's thesis project into a mobile application at the Saudi Telecom Company and worked at KAUST University to transform a research and development project to a technology-based start-up company. He also converted one of his patents into a successful product available in the market. 
+Holds a master's degree in Computer Based Information System and 12 years' experience in engineering and managing projects related to Information Technology and Software Development. His experience in working on R&D projects, academic projects and transforming them into practical pioneering projects is one of the most important things he can offer to this project as he converted his master's thesis project into a mobile application at the Saudi Telecom Company and worked at KAUST University to transform a research and development project to a technology-based start-up company. He also converted one of his patents into a successful product available in the market. 
 

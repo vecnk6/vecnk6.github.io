@@ -10,7 +10,7 @@ role: Assistant Professor, Qatar University Qatar
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Qatar University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

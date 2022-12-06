@@ -14,26 +14,26 @@ role: Research Assistant CSE/HBKU
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Hamad Bin Khalifa University, Qatar
+  - url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 
-  - 
-  - 
+  - Machine Learning
+  - Computational Linguistics
+  - NLP
 
 education:
   courses:
-    - course: 
-      institution: 
+    - course: Master of Computer Applications 
+      institution: Kerala University, India
       year: 
-    - course: 
-      institution: 
+    - course: Computer Science 
+      institution: Kerala University, India
       year: 
-    - course: 
+    - course: Diploma in Data Science
       institution: 
       year: 
 
@@ -47,13 +47,13 @@ social:
     link: 'mailto:dkurup@hbku.edu.qa'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: twitter.com/Deviajit83
   - icon: google-scholar
     icon_pack: ai
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link: github.com/Devigk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +69,4 @@ user_groups:
   - POST-DOCS & RESEARCH ASSISTANTS
   - Visitors
 ---
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Devi is an MCA post graduate with 8 years of experience in developing software and web applications, out of which 3 years of experience as Research Associate in CMU, Qatar, in the areas of Human-Computer Interaction and NLP.

@@ -9,8 +9,8 @@ superuser: true
 role: Software Engineer & Lecturer, CSE/HBKU Qatar
 
 # Organizations/Affiliations
-organizations:
-  - name:
+organizations: 
+  - name: Hamad Bin Khalifa University, Qatar
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

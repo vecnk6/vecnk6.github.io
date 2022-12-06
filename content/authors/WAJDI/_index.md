@@ -10,8 +10,8 @@ role: Assistant Professor, CSE/HBKU Qatar
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Hamad Bin Khalifa University, Qatar
+  - url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
